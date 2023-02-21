@@ -1,0 +1,32 @@
+body{
+    background-color: #DEF5E5;
+}
+h1
+{
+    text-align: center;
+    color: #10A19D;
+    font-style: italic;
+    font-family: serif;
+    font-size: 6rem;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    width: 70%;
+    margin: auto;
+}
+.player
+{
+    text-align: center;
+    font-size: 2rem;
+    color: #22A39F;
+    font-family: sans-serif;
+}
+img{
+    margin-top: 20px;
+}
+footer
+{
+    margin-top: 5%;
+    color: #22A39F;
+    font-family: sans-serif;
+    text-align: center;
+}
